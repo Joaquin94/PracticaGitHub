@@ -1,6 +1,6 @@
 /**
  *
- * @author ???
+ * @author Joaquin Prados Fernandez
  */
 
 public class Lib {
